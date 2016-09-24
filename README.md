@@ -1,4 +1,4 @@
-# Trabajos practico
+# Trabajo practico
 ## MenuABM2
 
 Estimado profesor,
