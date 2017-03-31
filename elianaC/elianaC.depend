@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490919801 source:c:\users\alumno\desktop\elianac\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1490917240 source:c:\users\alumno\desktop\elianac\main.c
+	<stdio.h>
+	<stdlib.h>
+
